@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Caophuc799/cpwebsedistance#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "google-distance": "^1.0.1"
+    "google-distance": "^1.0.1",
+    "heroku": "^0.2.0"
   }
 }
